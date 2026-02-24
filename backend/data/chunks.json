@@ -1,0 +1,8 @@
+[
+  {
+    "text": "File System Navigation:\n\nls - List directory contents with optional long format\n\npwd - Print working directory\n\ncd - Change directory\n\nFile/Directory Operations:\n\nmkdir - Create directories\n\nrm - Remove files/directories\n\ncp - Copy files/directories\n\nmv - Move/rename files\n\ntouch - Create empty files or update timestamps\n\nFile Content Operations:\n\ncat - Display file contents\n\nhead - Show first N lines\n\ntail - Show last N lines\n\ngrep - Search for patterns in files\n\nwc - Count lines, words, and characters\n\nUtilities:\n\necho - Display text\n\nfind - Search for files and directories",
+    "doc_id": "463e886c",
+    "filename": "Basic Linux.docx",
+    "chunk_index": 0
+  }
+]
